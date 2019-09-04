@@ -1,1 +1,1 @@
-include ':app', ':circlemenutest'
+include ':app', ':circlemenutest', ':simpleview'
